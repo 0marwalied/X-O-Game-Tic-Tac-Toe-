@@ -28,4 +28,4 @@ To make a move, enter the number of the position where you want to place your sy
 ## How to Run the Game
 1. **Compile the code**: Use a C++ compiler (e.g., `g++`) to compile the program:
    ```bash
-   g++ -o xo_game xo_game.cpp
+   g++ -o gameplay gameplay.cpp
