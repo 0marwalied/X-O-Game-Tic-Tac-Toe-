@@ -18,7 +18,9 @@ This is a simple **Tic Tac Toe** game implemented in C++. It allows two players 
 The grid is numbered from **1 to 9** as follows:
 
 | 1 | 2 | 3 |
+
 | 4 | 5 | 6 |
+
 | 7 | 8 | 9 |
 
 To make a move, enter the number of the position where you want to place your symbol.
